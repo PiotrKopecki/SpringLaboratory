@@ -13,4 +13,4 @@
 * Lombok
 * Jpa
 * DB MySql
-* Frontent - Angular
+* Frontend - Angular
